@@ -2,8 +2,8 @@
 
 [ORCID]<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-4546-2623" href="https://orcid.org/0000-0003-4546-2623" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4546-2623</a></div>
 
-[NASA/ADS libraries](https://ui.adsabs.harvard.edu/user/libraries/OhKMuuwDQPKHjmz5S3pzQQ) 
 
+[NASA/ADS libraries](https://ui.adsabs.harvard.edu/user/libraries/OhKMuuwDQPKHjmz5S3pzQQ) 
 
 [Observations]
 
@@ -42,3 +42,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gmndkkp&nd=6&style=105" border="0" alt="free counter"></a> 
+
+</p>
